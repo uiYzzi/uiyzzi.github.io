@@ -1,4 +1,5 @@
 # README
+<html>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/byliuyang/github-stats@0.0.4/src/github-stats.js"></script>
 (async () => {
     const GITHUB_USERNAME = 'uiYzzi';
@@ -49,3 +50,4 @@
     });
     githubLanguageDistribution.appendChild(languageContribSVG);
 })();
+</html>
